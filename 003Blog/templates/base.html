@@ -20,8 +20,8 @@
                 <p>Hi {{ user.username }}!</p>
                 <p><a href="{% url 'logout' %}">Log out</a></p>
             {% else %}
-                <p>You are not logged in.</p>
-                <a href="{% url 'login' %}">Log In</a>
+                <p>You are not logged in, or signup using signup button.</p>
+                <a href="{% url 'login' %}">Log In</a> | <a href="{% url 'signup' %}">Sign Up</a>
             {% endif %}
             {% block content %}
             {% endblock content %}
