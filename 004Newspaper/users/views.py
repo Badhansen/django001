@@ -1,5 +1,5 @@
 from django.urls import reverse_lazy
-from django.views.generic import CreateView, TemplateView
+from django.views.generic import CreateView
 
 from .forms import CustomUserCreationForm
 
@@ -10,6 +10,4 @@ class SignUpView(CreateView):
     template_name = 'registration/signup.html'
 
 
-class HomePageView(TemplateView):
-    template_name = 'home.html'
 
