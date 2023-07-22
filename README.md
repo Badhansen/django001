@@ -1,6 +1,6 @@
 # django001
 
-To contribute to this project, follow the steps below:
+To contribute or run this project, follow the steps below:
 ### 1. Clone the repository
 
 ```
@@ -44,10 +44,3 @@ Remember to activate the virtual environment (`source venv/bin/activate`) or if 
 ## Contribution
 
 If you wish to contribute to this project, please create a new branch and submit a pull request with your changes. We welcome contributions from the community!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to modify and expand the `README.md` file to include any additional information about your project, such as project description, features, usage instructions, or anything else that would be relevant for contributors and users.
