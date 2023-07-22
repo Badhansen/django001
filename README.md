@@ -1,5 +1,10 @@
 # django001
+Final version of this repository will be look like this
 
+![](https://github.com/Badhansen/django001/images/Django001.gif)
+
+I tried this book for learning and developing my skills (**Django for Beginners 4.0.**) thanks William S. Vincent for this awesome book.
+![](https://github.com/Badhansen/django001/images/bookcover40.jpg)
 To contribute or run this project, follow the steps below:
 ### 1. Clone the repository
 
